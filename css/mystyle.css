@@ -72,3 +72,25 @@ body {
     padding:40px;
     
   }
+
+  .container3{
+    display: inline;
+  }
+  .container4{
+    width:30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float:left;
+
+  }
+
+  .container5{
+    width:70%;
+    padding-left:15px;
+  }
+
+  .container6{
+    text-align: center;
+    padding: 3px;
+    
+  }
