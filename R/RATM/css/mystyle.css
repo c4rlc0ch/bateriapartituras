@@ -2,7 +2,7 @@ body {
     background-color: black;
   }
   
-  h1{
+  h1 {
     text-align: center;
     color: lawngreen;
     margin-left: 20px;
@@ -13,30 +13,10 @@ body {
     margin-left: 20px;
   }
 
-  .h21{
-    text-align: center;
-    color: lawngreen;
-    margin-left: 20px;
-  }
-
-  h3{
-    text-align: center;
-    color: lawngreen;
-    margin-left: 20px;
-  }
-
+ 
   p{
     color: lawngreen;
   }
-  
- .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-  }
-
-  
 
   nav { background-color: black; padding: 10px; text-align: center; color:lawngreen; }  
   nav ul { list-style: none; position: relative; display: inline-block; background-color: black; color:lawngreen;} 
@@ -72,4 +52,45 @@ body {
     text-decoration: underline;
   }
 
- 
+  menu{
+    display:inline;
+  }
+
+  .container{
+    display: flex;
+    justify-content: center;
+  }
+
+  .container1{
+    display:inline-block;
+    padding:40px;
+    
+  }
+
+  .container2{
+    display:inline-block;
+    padding:40px;
+    
+  }
+
+  .container3{
+    display: inline;
+  }
+  .container4{
+    width:30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float:left;
+
+  }
+
+  .container5{
+    width:70%;
+    padding-left:15px;
+  }
+
+  .container6{
+    text-align: center;
+    padding: 3px;
+    
+  }
